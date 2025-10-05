@@ -246,11 +246,11 @@ Emails are sent for:
 
 - **Home Screen Wallet Import** :
 
-![Wallet Import](readmeNeeds\Home_mneo.gif)
+![Wallet Import](readmeNeeds/Home_mneo.gif)
 
 - **Live Mail Notifications** :
 
-![Mail Notifications](readmeNeeds\mail_show.gif)
+![Mail Notifications](readmeNeeds/mail_show.gif)
 
 - **Transaction** : [Sample Transaction Video](https://youtu.be/mYl_BzssQA0)
 
