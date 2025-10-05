@@ -1,0 +1,8 @@
+streamlit==1.39.0
+requests==2.32.3
+web3==7.3.0
+python-dotenv==1.0.1
+pyjwt==2.9.0
+cryptography==42.0.5
+streamlit-js-eval==0.1.7
+

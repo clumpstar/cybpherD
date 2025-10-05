@@ -1,0 +1,12 @@
+fastapi==0.115.0
+uvicorn==0.31.0
+pydantic==2.9.2
+python-dotenv==1.0.1
+supabase==2.9.0
+web3==7.3.0
+requests==2.31.0
+python-multipart==0.0.12
+colorama==0.4.6
+pydantic[email]==2.9.2
+resend==0.8.0
+
