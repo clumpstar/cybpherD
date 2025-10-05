@@ -238,11 +238,19 @@ Emails are sent for:
 - Frontend: `http://localhost:8501`
 - API Docs: `http://localhost:8000/docs`
 
-## 📜 License
+## Demo
 
-MIT License - feel free to use for learning and development.
+- **Home Screen: Wallet creation** :
 
----
+![Wallet creation](readmeNeeds/Home.gif)
 
-**Built for CypherD Hackathon** 🚀
+- **Home Screen Wallet Import** :
+
+![Wallet Import](readmeNeeds\Home_mneo.gif)
+
+- **Live Mail Notifications** :
+
+![Mail Notifications](readmeNeeds\mail_show.gif)
+
+- **Transaction** : [Sample Transaction Video](https://youtu.be/mYl_BzssQA0)
 
